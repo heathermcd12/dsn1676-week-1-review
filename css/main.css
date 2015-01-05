@@ -13,6 +13,11 @@ html {
   text-size-adjust: 100%;
 }
 
+background-color: #07171E;
+color: #fff;
+}
+
+
 *, *:before, *:after {
   box-sizing: inherit;
 }
